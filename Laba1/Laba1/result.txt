@@ -1,0 +1,3 @@
+Key length: 1; Text length: 100; Procent of Success: 0;
+Key length: 4; Text length: 100; Procent of Success: 0.26;
+Key length: 7; Text length: 100; Procent of Success: 0.01;
